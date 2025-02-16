@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-carrier-template/hardware/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "buckboost_footprint")(type "KiCad")(uri "C:/Users/vazqu/Desktop/Raspberry-pi-CM4---AeroGuard-Project-main/Raspberry-pi-CM4---AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/buckboost_footprint/buckboost_footprint.pretty")(options "")(descr ""))
+)
