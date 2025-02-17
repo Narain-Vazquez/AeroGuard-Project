@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-carrier-template/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "buckboost")(type "KiCad")(uri "C:/Users/vazqu/Desktop/AeroGuard-Project-main/AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/buckboost_footprint/TPS63070RNMR.kicad_sym")(options "")(descr ""))
+  (lib (name "CST-931AP")(type "KiCad")(uri "C:/Users/vazqu/Desktop/AeroGuard-Project-main/AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/buzzer_footprint/CST-931AP.kicad_sym")(options "")(descr ""))
+)
