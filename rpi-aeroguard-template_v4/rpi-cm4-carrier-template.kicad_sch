@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "924c40b2-b3c3-4128-82e8-60e070af015f")
 	(paper "A4")
 	(title_block
@@ -34,6 +34,10 @@
 	(sheet
 		(at 101.6 101.6)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0)
 			(type solid)
@@ -63,33 +67,33 @@
 		)
 		(pin "CAM_GPIO" input
 			(at 135.89 101.6 90)
+			(uuid "022e9645-39d6-40b9-b05d-c8677b32e799")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "022e9645-39d6-40b9-b05d-c8677b32e799")
 		)
 		(pin "SDA0" input
 			(at 125.73 101.6 90)
+			(uuid "ad94107a-dc9d-4433-bf82-cf0930c03992")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ad94107a-dc9d-4433-bf82-cf0930c03992")
 		)
 		(pin "SCL0" input
 			(at 128.27 101.6 90)
+			(uuid "4995861a-3351-483c-9357-43457976b051")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4995861a-3351-483c-9357-43457976b051")
 		)
 		(instances
 			(project "rpi-cm4-carrier-template"
@@ -102,6 +106,10 @@
 	(sheet
 		(at 101.6 50.8)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0)
 			(type solid)
@@ -131,33 +139,33 @@
 		)
 		(pin "CAM_GPIO" input
 			(at 135.89 88.9 270)
+			(uuid "bb25b934-5069-49a8-8d43-3b8b778562ff")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bb25b934-5069-49a8-8d43-3b8b778562ff")
 		)
 		(pin "SCL0" output
 			(at 128.27 88.9 270)
+			(uuid "b743b246-ad76-4424-80c0-2f128f983eb1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b743b246-ad76-4424-80c0-2f128f983eb1")
 		)
 		(pin "SDA0" output
 			(at 125.73 88.9 270)
+			(uuid "b0d4a344-2b37-41c7-9e38-0642888c3a54")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b0d4a344-2b37-41c7-9e38-0642888c3a54")
 		)
 		(instances
 			(project "rpi-cm4-carrier-template"
@@ -172,4 +180,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
