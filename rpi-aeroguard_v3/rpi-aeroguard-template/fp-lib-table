@@ -1,7 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "buckboost_footprint")(type "KiCad")(uri "C:/Users/vazqu/Desktop/AeroGuard-Project-main/AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/buckboost_footprint/TPS63070RNMR_footprint.pretty")(options "")(descr ""))
-  (lib (name "CUI_CST-931AP.petty")(type "KiCad")(uri "C:/Users/vazqu/Desktop/AeroGuard-Project-main/AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/buzzer_footprint/CUI_CST-931AP.petty")(options "")(descr ""))
-  (lib (name "AMPHENOL_F305-1A7H1-21022-E100.petty")(type "KiCad")(uri "C:/Users/vazqu/Desktop/AeroGuard-Project-main/AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/camera_connector_footprint/AMPHENOL_F305-1A7H1-21022-E100.petty")(options "")(descr ""))
-  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/vazqu/Desktop/AeroGuard-Project-main/AeroGuard-Project-main/rpi-cm4-carrier-template-&-AEROGUARD-SYSTEM/rpi-aeroguard/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
-)
