@@ -5,7 +5,7 @@ PCB Design Contributors:
 Narain Vazquez  
 Nico Gomez
 
-
+This repository specific holds the contents of the electrical portion of the Aeroguard Project, which inclueds the shematics of our PCD design, power distrubtion, and system integration
 
 
 # Raspberry Pi Compute Module 4 (CM4) Carrier Template
