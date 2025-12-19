@@ -1,6 +1,7 @@
 UIC Senior Design Project 
 
 PCB Design Contributors:
+
 Narain Vazquez
 Nico Gomez
 
