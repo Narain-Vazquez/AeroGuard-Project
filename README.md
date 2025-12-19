@@ -21,6 +21,8 @@ The Aeroguard Project is a senior design initiative focused on developing an aut
 The video demo showcases our Aeroguard prototype board in action. It demonstrates the fire detection feature, which triggers the speaker alerting system (note: the video itself has no audio).
 
 ![Aeroguard Demo](aeroguard_demo.gif)
+![Prototype Board](pcb_render.png)
+![Image Detection](pcb_render.png)
 
 
 ### Raspberry Pi Compute Module 4 (CM4) Carrier Template
